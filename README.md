@@ -6,4 +6,4 @@ layout: landing
 
 # homepage
 
-some other text here
+some other text here before
