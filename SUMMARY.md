@@ -1,6 +1,6 @@
 # Table of contents
 
-* [homepage](README.md)
+* [homepage](index.md)
 
 ## Group 1
 
