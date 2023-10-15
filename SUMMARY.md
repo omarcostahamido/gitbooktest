@@ -1,5 +1,6 @@
 # Table of contents
-* [homepage](index.md)
+
+* [homepage](README.md)
 
 ## Group 1
 
@@ -9,5 +10,3 @@
     * [Page 3](group-1/page/subpage/page-3/README.md)
       * [Page 4](group-1/page/subpage/page-3/page-4.md)
   * [Page 2](group-1/page/page-2.md)
-
-***
