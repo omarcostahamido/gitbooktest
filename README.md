@@ -1,6 +1,9 @@
 ---
+description: page description here
+coverY: 0
 layout: landing
 ---
 
-# Untitled
+# homepage
 
+and the content goes here
