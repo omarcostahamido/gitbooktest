@@ -12,5 +12,3 @@
   * [Page 2](group-1/page/page-2.md)
 
 ***
-
-* [gitbooktest](<README (1).md>)
